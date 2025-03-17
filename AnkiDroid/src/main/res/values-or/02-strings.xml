@@ -95,7 +95,7 @@
     <string name="note_editor_no_cards_created">କୌଣସି ପତ୍ର ସୃଷ୍ଟି ହୋଇନାହିଁ। ଦୟାକରି ଅଧିକ କ୍ଷେତ୍ର ପୂରଣ କରନ୍ତୁ</string>
     <string name="note_editor_no_cards_created_all_fields">ଚଳିତ ନୋଟ୍ ପ୍ରକାର କୌଣସି ପତ୍ର ଉତ୍ପାଦନ କଲା ନାହିଁ।\nଦୟାକରି ଅନ୍ୟ କୌଣସି ନୋଟ୍ ପ୍ରକାର ବାଛନ୍ତୁ କିମ୍ବା ‘ପତ୍ର’ କ୍ଲିକ୍ କରି ଗୋଟେ କ୍ଷେତ୍ର ପ୍ରତିସ୍ଥାପନ ଯୋଡ଼ନ୍ତୁ</string>
     <string name="note_editor_insert_cloze_no_cloze_note_type">କ୍ଲୋଜ ବିଲୋପ କେବଳ କ୍ଲୋଜ ନୋଟ ପ୍ରକାରରେ ହିଁ କାମ କରେ</string>
-    <string name="saving_facts">ନୋଟ୍ ସଂରକ୍ଷିତ କରାଯାଉଛି </string>
+    <string name="saving_facts">ନୋଟ୍ ସଂରକ୍ଷିତ କରାଯାଉଛି</string>
     <string name="saving_model">ନୋଟ୍ ପ୍ରକାର ସଂରକ୍ଷିତ ହଉଛି</string>
     <string name="save" maxLength="28">ସଞ୍ଚୟ</string>
     <string name="close">ବନ୍ଦ</string>
@@ -168,7 +168,7 @@
     <string name="dyn_deck_desc">ସାଧାରଣ କାର୍ଯ୍ୟସୂଚୀ ବାହାରେ ଅଧ୍ୟୟନ ପାଇଁ ଏହା ଏକ ସ୍ୱତନ୍ତ୍ର ତାସଖଣ୍ଡ। ଆପଣ ସମୀକ୍ଷା କରିବା ପରେ ପତ୍ରଗୁଡ଼ିକ ଆପେ ସେଗୁଡ଼ିକର ମୂଳ ତାସଖଣ୍ଡକୁ ଫେରି ଆସିବେ। ତାସଖଣ୍ଡ  ତାଲିକାରୁ ଏହି ତାସଖଣ୍ଡ ବିଲୋପ କରିବା ସମସ୍ତ ଅବଶିଷ୍ଟ ପତ୍ରଗୁଡ଼ିକୁ ସେମାନଙ୍କର ମୂଳ ତାସଖଣ୍ଡକୁ ଫେରାଇବ।</string>
     <string name="steps_error">ପାହୁଣ୍ଡଟି ୦ ଠାରୁ ବଡ଼ ସଂଖ୍ୟା ହେବା ଜରୁରୀ</string>
     <string name="steps_min_error">ଅତି କମରେ ୧ଟିଏ ପାହୁଣ୍ଡ ଆଵଶ୍ୟକ</string>
-    <string name="tag_editor_add_feedback"> “%1$s” କୁ ଯୋଡ଼ିବା ପାଇଁ “%2$s” ଦବାନ୍ତୁ</string>
+    <string name="tag_editor_add_feedback">“%1$s” କୁ ଯୋଡ଼ିବା ପାଇଁ “%2$s” ଦବାନ୍ତୁ</string>
     <string name="tag_editor_add_feedback_existing">ଵିଦ୍ୟମାନ ଟ୍ୟାଗ୍ “%1$s” ଚୟନ କରାଯାଇଛି</string>
     <!-- Time spans -->
     <string name="reminder_title">ଆଜି ଅଧ୍ୟୟନ କରିବାକୁ ଭୁଲନ୍ତୁ ନାହିଁ!</string>
@@ -249,6 +249,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s%%</string>
     <string name="download_deck">ତାସଖଣ୍ଡ ଡାଉନଲୋଡ୍ କରନ୍ତୁ</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ</string>
     <string name="cancel_download">ଡାଉନଲୋଡ୍ ବାତିଲ୍ କରନ୍ତୁ</string>
     <string name="cancel_download_question_title">ଡାଉନଲୋଡ୍ ବାତିଲ୍ କରିବେ କି?</string>

@@ -140,7 +140,7 @@
     <string name="import_preparing_file">Подготовка файла для импорта&#8230;</string>
     <string name="import_message_add" comment="Adding a new deck to the collection (import)">Добавить</string>
     <string name="import_message_replace_confirm">Ваша коллекция будет удалена, и её заменят данные из файла %s</string>
-    <string name="import_dialog_message_add">Добавить \"%s\" в коллекцию? Может потребоваться немало времени </string>
+    <string name="import_dialog_message_add">Добавить \"%s\" в коллекцию? Может потребоваться немало времени</string>
     <string name="import_log_no_apkg">Это недопустимый пакет Anki</string>
     <string name="import_title_error" comment="Title of error dialog">Ошибка</string>
     <string name="import_error_handle_exception">Не удалось импортировать файл\n\n%s</string>
@@ -257,6 +257,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s%%</string>
     <string name="download_deck">Скачать колоду</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">Попробуйте ещё раз</string>
     <string name="cancel_download">Отменить загрузку</string>
     <string name="cancel_download_question_title">Отменить загрузку?</string>

@@ -80,7 +80,7 @@
     <string name="webview_crash_fatal">Fatale fout: WebView renderer is gecrasht. Oorzaak: %s</string>
     <string name="webview_crash_loop_dialog_title">Systeem WebView Rendering Mislukking.</string>
     <string name="webview_crash_loop_dialog_content">Systeem WebView kon de kaart \'%1$s\' niet renderen.\n%2$s</string>
-    <string name="filter_by_flags" maxLength="41">Vlaggen </string>
+    <string name="filter_by_flags" maxLength="41">Vlaggen</string>
     <!-- Custom study options -->
     <string name="custom_study_limit_tags">Beperken tot bepaalde tags</string>
     <plurals name="studyoptions_buried_count">
@@ -249,6 +249,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s%%</string>
     <string name="download_deck">Set downloaden</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">Probeer nogmaals</string>
     <string name="cancel_download">Annuleer download</string>
     <string name="cancel_download_question_title">Annuleer download?</string>

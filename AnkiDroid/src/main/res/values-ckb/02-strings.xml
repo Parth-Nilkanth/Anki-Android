@@ -128,7 +128,7 @@
     <string name="check_media" maxLength="28">پشکنینی ڕەنگاڵە</string>
     <string name="empty_cards" maxLength="28">کارتە بەتاڵەکان</string>
     <string name="unknown_type_field_warning">Type answer: unknown field %s</string>
-    <string name="delete_deck">دەستە دەسڕدرێتەوە&#8230; </string>
+    <string name="delete_deck">دەستە دەسڕدرێتەوە&#8230;</string>
     <string name="info_rate">Rate AnkiDroid</string>
     <string name="import_title">Importing</string>
     <string name="import_preparing_file">Preparing file for import&#8230;</string>
@@ -249,6 +249,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s%%</string>
     <string name="download_deck">Download deck</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">Try Again</string>
     <string name="cancel_download">Cancel download</string>
     <string name="cancel_download_question_title">Cancel download?</string>

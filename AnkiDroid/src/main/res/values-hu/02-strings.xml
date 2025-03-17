@@ -249,6 +249,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s%%</string>
     <string name="download_deck">Pakli letöltése</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">Próbáld újra</string>
     <string name="cancel_download">Letöltés megszakítása</string>
     <string name="cancel_download_question_title">Letöltés megszakítása?</string>
@@ -286,7 +287,7 @@
     <string name="cd_manage_notetypes_add">Add a new note type</string>
     <!-- App Intro -->
     <string name="intro_ankidroid_tagline_one">Tanulj kevesebbet</string>
-    <string name="intro_ankidroid_tagline_two">Jegyezz meg többet </string>
+    <string name="intro_ankidroid_tagline_two">Jegyezz meg többet</string>
     <string name="intro_short_ankidroid_explanation">Az Anki kártyatervező időt spórol: megerősíti a leggyengébb emlékeidet, és megőrzi a legerősebbeket.</string>
     <string name="intro_get_started" comment="Action to start AnkiDroid for the first time without syncing from AnkiWeb">Kezdj hozzá</string>
     <string name="intro_sync_from_ankiweb">Szinkronizálás AnkiWebről</string>

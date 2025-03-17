@@ -80,7 +80,7 @@
     <string name="webview_crash_fatal">Błąd krytyczny: awaria renderowania WebView. Przyczyna: %s</string>
     <string name="webview_crash_loop_dialog_title">Błąd renderowania WebView systemu</string>
     <string name="webview_crash_loop_dialog_content">System WebView nie potrafił wyrenderować karty \'%1$s\'.\n %2$s</string>
-    <string name="filter_by_flags" maxLength="41">Flagi </string>
+    <string name="filter_by_flags" maxLength="41">Flagi</string>
     <!-- Custom study options -->
     <string name="custom_study_limit_tags">Ogranicz do poszczególnych tagów</string>
     <plurals name="studyoptions_buried_count">
@@ -257,6 +257,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s%%</string>
     <string name="download_deck">Pobierz talię</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">Spróbuj ponownie</string>
     <string name="cancel_download">Anuluj pobieranie</string>
     <string name="cancel_download_question_title">Anulować pobieranie?</string>

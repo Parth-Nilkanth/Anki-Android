@@ -249,6 +249,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s%%</string>
     <string name="download_deck">Deste indir</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">Tekrar dene</string>
     <string name="cancel_download">İndirmeyi iptal et</string>
     <string name="cancel_download_question_title">İndirmeyi iptal et?</string>
@@ -303,7 +304,7 @@
     <string name="toggle_cards_notes">Kartları/Notları Aç/Kapat</string>
     <string name="truncate_content_help">Tarayıcının her sırasının yüksekliğini içeriğin sadece ilk 3 satırını gösterecek şekilde kırp</string>
     <string name="browser_options_dialog_heading">Tarayıcı seçenekleri</string>
-    <string name="audio_saved">Alınan kayıtlar kaydedildi. </string>
+    <string name="audio_saved">Alınan kayıtlar kaydedildi.</string>
     <string name="deleting_selected_notes">Seçili notlar siliniyor</string>
     <string name="tts_voices_default_text" comment="The default text to speak when selecting     Text to speech voices">Tap a voice to listen</string>
     <string name="tts_voices_selected_voice_should_be_installed" comment="If a voice has been tapped, is installable but not installed, we want to inform the user that they should install it for the best experience There will also be an option to use it without downloading">Voice should be installed before use</string>

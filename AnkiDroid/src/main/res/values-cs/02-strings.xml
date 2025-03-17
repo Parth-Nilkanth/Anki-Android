@@ -89,8 +89,8 @@
         <item quantity="many">+%d přeskočené</item>
         <item quantity="other">+%d přeskočených</item>
     </plurals>
-    <string name="studyoptions_total_new_label">Total new cards</string>
-    <string name="studyoptions_total_label">Total cards</string>
+    <string name="studyoptions_total_new_label">Všechny nové kartičky</string>
+    <string name="studyoptions_total_label">Všechny karty</string>
     <!-- Card editor -->
     <string name="cardeditor_title_edit_card" maxLength="28">Upravit poznámku</string>
     <string name="discard">Zahodit</string>
@@ -257,6 +257,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s%%</string>
     <string name="download_deck">Stáhnout balíček</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">Zkusit znovu</string>
     <string name="cancel_download">Zrušit stahování</string>
     <string name="cancel_download_question_title">Zrušit stahování?</string>
@@ -352,7 +353,7 @@
     <string name="card_template_editor_group" comment="Label for the group of shortcuts related to the card template editor">Card Template Editor</string>
     <string name="edit_front_template" comment="Description of the shortcut that shows the question side of the card template">Edit front template</string>
     <string name="edit_back_template" comment="Description of the shortcut that shows the answer side of the card template">Edit back template</string>
-    <string name="edit_styling" comment="Description of the shortcut that shows the styling side of the card template">Upravit formátování </string>
+    <string name="edit_styling" comment="Description of the shortcut that shows the styling side of the card template">Upravit formátování</string>
     <string name="copy_the_template" comment="Description of the shortcut that copy the template as markdown">Copy template as markdown</string>
     <string name="edit_browser_appearance" comment="Description of the shortcut that edits the browser appearance of card template">Edit browser appearance</string>
     <string name="missing_user_action_dialog_message" comment="%s is the user action number">Akce uživatele %s není v tomto typu poznámky nastavena. Nakonfigurujte ji prosím</string>

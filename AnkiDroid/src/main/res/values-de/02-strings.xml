@@ -249,6 +249,7 @@
     <!-- %% is required to display % symbol. Reference: https://stackoverflow.com/a/16834358 -->
     <string name="percentage">%s %%</string>
     <string name="download_deck">Stapel herunterladen</string>
+    <string name="open_in_browser" comment="Label of a button inviting to open ankiweb\'s shared deck page if automated download failed">Open in Browser</string>
     <string name="try_again">Erneut versuchen</string>
     <string name="cancel_download">Herunterladen abbrechen</string>
     <string name="cancel_download_question_title">Herunterladen abbrechen?</string>
@@ -274,7 +275,7 @@
     <string name="search_card_js_api_no_results">Suche lieferte keine Ergebnisse</string>
     <!--  JS Addons  -->
     <string name="not_valid_js_addon_package">%s ist kein gültiges JavaScript-Erweiterungspaket.</string>
-    <string name="could_not_create_dir">Verzeichnis %s konnte nicht erstellt werden </string>
+    <string name="could_not_create_dir">Verzeichnis %s konnte nicht erstellt werden</string>
     <string name="malicious_archive_entry_outside">Schädliches Archiv. Enthält Eintrag außerhalb des Zielverzeichnisses: %s</string>
     <string name="malicious_archive_exceeds_limit">Schädliches Archiv. Größe überschreitet %1$s oder enthält mehr als %2$d Dateien</string>
     <string name="file_extract_exceeds_storage_space">Datei-Extrahierung überschreitet Speicherplatz</string>
